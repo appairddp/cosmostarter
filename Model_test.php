@@ -62,5 +62,4 @@ class Model {
 
 
 }
-$m = Model::get_model();
-var_dump($m->test());
+echo json_encode(1);
